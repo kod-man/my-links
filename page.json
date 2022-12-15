@@ -1,27 +1,27 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Software Engineer @Spotify",
-  "image_url": "https://pbs.twimg.com/profile_images/1593630240961662979/hDHYl9MP_400x400.jpg",
+  "name": "Ufuk Kodaman",
+  "description": "Software Engineer @Worldline",
+  "image_url": "https://pbs.twimg.com/profile_images/1603390110766178306/ewOd91S2_400x400.jpg",
   "links": [
     {
       "title": "LinkedIn",
-      "url": "https://linkedin.com/in/fyvz",
+      "url": "https://www.linkedin.com/in/kodmanufuk/",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "https://github.com/fatih-yavuz",
+      "url": "https://github.com/kod-man",
       "icon": "github"
     },
     {
       "title": "Twitter",
-      "url": "https://twitter.com/fthdev",
+      "url": "https://twitter.com/kodmanJs",
       "icon": "twitter"
     },
     {
-      "title": "Instagram",
-      "url": "https://instagram.com/pusuknane",
-      "icon": "instagram"
+      "title": "Medium",
+      "url": "https://kodman.medium.com/",
+      "icon": "medium"
     }
   ]
 }
