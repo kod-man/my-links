@@ -22,6 +22,11 @@
       "title": "Medium",
       "url": "https://kodman.medium.com/",
       "icon": "medium"
+    },
+     {
+      "title": "Youtube",
+      "url": "https://www.youtube.com/@KodManJs",
+      "icon": "youtube"
     }
   ]
 }
